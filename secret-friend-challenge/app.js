@@ -45,7 +45,7 @@ function sortearAmigo() {
   resultado.innerHTML = "";
 
   const li = document.createElement("li");
-  li.textContent = `O amigo secreto sorteado é: ${sorteado}`;
+  li.textContent = `A pessoa sorteada foi: ${sorteado}`;
   resultado.appendChild(li);
 }
 
