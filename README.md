@@ -11,7 +11,7 @@ Este é um projeto para estudos e aberto ao público, você pode clonar e execut
 
 ### 📋 Pré-requisitos
 
-Para rodar este projeto você precisa de um navegador (Browser) de internet para interpretar os códigos, ele será executado em sua porta local
+Para rodar este projeto você precisa de um navegador (Browser) de internet para interpretar os códigos, ele será executado em sua porta local, veja o exemplo abaixo 👇🏿
 
 ```
 [Exemplo](http://127.0.0.1:5500/index.html)
@@ -31,7 +31,7 @@ Por favor, fique a vontade para nos enviar sua colboração e/ou sugestões de m
 
 ## 📌 Versão
 
-Nós usamos [Git](https://git-scm.com/doc) para controle de versão. Para as versões disponíveis, observe este [repositório](https://github.com/suas/tags/do/projeto](https://github.com/edvannps/first-challenge-alura)). 
+Nós usamos [Git](https://git-scm.com/doc) para controle de versão. Para ver o projeto publicado e em funcionamento acesse este site: [Secret Friend](https://edvannps.github.io/). 
 
 ## ✒️ Autor
 
